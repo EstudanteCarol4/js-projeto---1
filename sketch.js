@@ -35,4 +35,4 @@ function draw() {
     
   text(parcial, 200, 200);
   
-}  
+}
